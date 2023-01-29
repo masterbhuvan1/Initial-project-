@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "620875448974",
+    "project_id": "instagramclone-ba6b5",
+    "storage_bucket": "instagramclone-ba6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620875448974:android:ed55342e5be4088378bfdf",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620875448974-1ii58qucsptgeo4app7ja0qeisv7s2fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NdawgWRwP5E8qh1HXQdDV_IF0DVYykY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620875448974-1ii58qucsptgeo4app7ja0qeisv7s2fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620875448974:android:5558b37a313c58de78bfdf",
+        "android_client_info": {
+          "package_name": "com.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620875448974-hj7u511cv1b8bq1778iid6bmh81ac157.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagramclone",
+            "certificate_hash": "12b18804e3748d3f67595867407c8a08409a3b8c"
+          }
+        },
+        {
+          "client_id": "620875448974-1ii58qucsptgeo4app7ja0qeisv7s2fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NdawgWRwP5E8qh1HXQdDV_IF0DVYykY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620875448974-1ii58qucsptgeo4app7ja0qeisv7s2fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
